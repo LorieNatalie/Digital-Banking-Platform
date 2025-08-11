@@ -1,4 +1,5 @@
  # Database connection and setup
+ # SQLite for data storage (since it's lightweight and easy to work with)
 
 import sqlite3
 
